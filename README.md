@@ -1,6 +1,6 @@
 # Names
-* Ambar Ruiz
-* Rebecca Tobias
-* John Stulich
 * Czerinton Kunaraja
+* Ambar Ruiz
+* John Stulich
+* Rebecca Tobias
 * Alexander Vega
