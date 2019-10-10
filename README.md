@@ -4,3 +4,4 @@
 * Ambar Ruiz
 * Rebecca Tobias
 * Alexander Vega
+* Daniel Tapia
